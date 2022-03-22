@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Conversor_macro_divisas_beta</string>
+
+    <string name="cantidadeneuros">Cantidad en euros</string>
+    <string name="introduzcalacantidad">Introduzca la cantidad</string>
+    <string name="cantidaddeladivisa">Cantidad de la divisa</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="documentacion">Documentacion</string>
+    <string name="hechoporcristianramirez">Hecho por Cristian Ramírez</string>
+    <string name="ssppiinneerr">Spiner</string>
+
+    <string name="rpi">RPI</string>
+    <string name="kfr">KFR</string>
+    <string name="btc">BTC</string>
+    <string name="amg">AMG</string>
+    <string name="pkd">PKD</string>
+    <string name="agw">AGW</string>
+    <string name="tau">TAU</string>
+    <string name="bbd">BBD</string>
+    <string name="inicio">Inicio</string>
+
+    <string name="inicio3">Inicio</string>
+    <string name="documentacion3">Documentacion</string>
+</resources>
